@@ -12,9 +12,6 @@ A fun number guessing game where the computer picks a random number, and you hav
 
 ---
 
-## 🔗 Play the Game  
-[Click here to play the Godot version](https://drive.google.com/file/d/1eZuLJytfktdBmpsJorry28vaJsiO9zAW/view?usp=drive_link)  
-
 ---
 
 ## 📂 Requirements  
